@@ -25,4 +25,15 @@ Welcome to my capstone ePortfolio. Below you'll find my enhanced artifacts demon
 
 ---
 
-_Stay tuned for Artifact 3…_
+## 🌍 Artifact 3: MongoDB and Power BI Dashboard
+
+- 📄 [View Project README](./Artifact3_MongoBI/README.md)
+- 🔗 NoSQL database integration with MongoDB  
+- 📊 Interactive dashboard built in Power BI  
+- 🛫 Real-world airline and airport data pipeline  
+- 🧾 Comparative insight from insurance data to aviation market analytics  
+- 📷 [View Screenshots](./Artifact3_MongoBI/Screenshots)
+
+---
+
+Thank you for reviewing my capstone portfolio!
