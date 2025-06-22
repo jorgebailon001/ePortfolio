@@ -6,7 +6,7 @@ Welcome to my capstone ePortfolio. Below you'll find my enhanced artifacts demon
 
 ## 🔹 Artifact 1: Bank Management System (Python)
 
-- 📁 [View Project Files](./Artifact1_BankSystem/)
+- 📁 [View Project README](./Artifact1_BankSystem/README.md)
 - 🧠 Object-oriented design with SOLID principles
 - ⚙️ Strategy pattern for transactions
 - 📋 Logging and testing with `unittest`
