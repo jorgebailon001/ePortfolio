@@ -52,6 +52,9 @@ Artifact3_MongoBI/
 🔍 **View the Original Dashboard:**  
 [📂 insurance_data.pbix – View via OneDrive](https://1drv.ms/u/c/c7d4b73524dc22bd/EfvyX4O19u9OuOeMuBXLLiUBM_caU0pQJ-4Pf8MwKkVNUg?e=trbZlE)
 
+🔍 **View the Original Dashboard:**  
+📄 [DAT 310 Insurance Data.xlsx – View via OneDrive](https://1drv.ms/x/c/c7d4b73524dc22bd/EcR62cvMbz9Mtn33OsUSDEoBSloatkCZcKKoYic9Scju5Q?e=i3LqPp)
+
 Use the links above to download or explore the Power BI reports showcasing MongoDB-enhanced airline data and the original Excel-based insurance analysis.
 ---
 
