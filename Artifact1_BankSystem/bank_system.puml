@@ -1,0 +1,46 @@
+@startuml
+
+interface TransactionStrategy {
+    +execute(account, amount)
+}
+
+class Account {
+    - account_number: int
+    - first_name: str
+    - last_name: str
+    - age: str
+    - account_type: str
+    - balance: float
+    + deposit(amount)
+    + withdraw(amount)
+    + __str__()
+}
+
+class BankManager {
+    - accounts: list
+    + open_account(first_name, last_name, age, account_type, deposit)
+    + find_account(account_number)
+    + display_accounts()
+}
+
+class Deposit {
+    + execute(account, amount)
+}
+
+class Withdraw {
+    + execute(account, amount)
+}
+
+class logger_config {
+    + setup_logger()
+}
+
+class main
+
+main --> BankManager
+BankManager --> Account
+BankManager ..> logger_config : uses
+TransactionStrategy <|.. Deposit
+TransactionStrategy <|.. Withdraw
+
+@enduml
