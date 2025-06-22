@@ -11,7 +11,7 @@ This enhanced console-based banking system was ported from a legacy C++ version.
 - ✅ Strategy Pattern for transactions
 - ✅ Logging with timestamps (`logger_config.py`)
 - ✅ Unit testing with Python’s `unittest` module
-- 📸 **[View UML Screenshot](./UML_BankSystem.png)**  
+📸 **[View UML Diagram – UML_BankSystem.png](https://1drv.ms/i/c/c7d4b73524dc22bd/ESyulRAVMglHuN1czhHy1D0BxyHNbVTyrbY4onP0ZL-BQw?e=WQHjqu)**
 
 ---
 
