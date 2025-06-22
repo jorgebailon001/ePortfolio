@@ -10,7 +10,7 @@ Welcome to my capstone ePortfolio. Below you'll find my enhanced artifacts demon
 - 🔧 Object-oriented design with SOLID principles  
 - 🧠 Strategy pattern for transactions  
 - 🧪 Logging and testing with `unittest`  
-- 📊 [View UML Diagram (.puml)](./Artifact1_BankSystem/bank_system.puml)
+📸 [View UML Diagram – UML_BankSystem.png (OneDrive)](https://1drv.ms/i/c/c7d4b73524dc22bd/ESyulRAVMglHuN1czhHy1D0BxyHNbVTyrbY4onP0ZL-BQw?e=WQHjqu)
 
 ---
 
