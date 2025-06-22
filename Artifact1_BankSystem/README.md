@@ -38,3 +38,5 @@ Make sure Python 3 is installed.
 cd Artifact1_BankSystem
 python main.py
 '''
+
+---
