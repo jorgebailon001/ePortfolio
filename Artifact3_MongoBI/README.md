@@ -20,17 +20,18 @@ This artifact showcases the integration of **NoSQL data (MongoDB)** with **Power
 
 ```plaintext
 Artifact3_MongoBI/
+├── README.md                           ← Project overview and enhancement summary
 ├── Original/
-│   ├── DAT 310 Insurance Data.xlsx       ← Original Excel data
-│   └── insurance_data.pbix               ← Original Power BI dashboard
+│   ├── DAT 310 Insurance Data.xlsx     ← Original dataset used for Excel analysis
+│   └── insurance_data.pbix (linked)    ← Hosted externally on OneDrive
 ├── Enhanced/
-│   ├── airlines_utf8.csv                 ← Airline master data
-│   ├── airports_utf8.csv                 ← Airport reference data
-│   ├── routes.csv                        ← Global flight route data
-│   ├── airline_status_distribution.csv   ← Aggregated status by airline
-│   ├── top_10_airlines_by_route_count.csv ← Summary of top airlines by routes
-│   ├── top_10_airports_by_country.csv    ← Summary of global airport density
-│   └── airport_dashboard.pbix (see link below)
+│   ├── airlines_utf8.csv
+│   ├── airports_utf8.csv
+│   ├── routes.csv
+│   ├── airline_status_distribution.csv
+│   ├── top_10_airlines_by_route_count.csv
+│   ├── top_10_airports_by_country.csv
+│   └── airport_dashboard.pbix (linked) ← Hosted externally due to size limit
 ├── Screenshots/
 │   ├── Airline_Data.png
 │   ├── Airport_Data.png
@@ -47,8 +48,11 @@ Artifact3_MongoBI/
 
 🔍 **View the Enhanced Dashboard:**  
 [📂 airport_dashboard.pbix – View via OneDrive](https://1drv.ms/u/c/c7d4b73524dc22bd/EX35aPyhtwtMsA1OSL2cqgMBuLdhZcWCpVYl9otxVbcQCw?e=45Evfs)  
-> *(Click the link above to download or explore the enhanced Power BI report based on MongoDB airline data)*
 
+🔍 **View the Original Dashboard:**  
+[📂 insurance_data.pbix – View via OneDrive](https://1drv.ms/u/c/c7d4b73524dc22bd/EfvyX4O19u9OuOeMuBXLLiUBM_caU0pQJ-4Pf8MwKkVNUg?e=trbZlE)
+
+Use the links above to download or explore the Power BI reports showcasing MongoDB-enhanced airline data and the original Excel-based insurance analysis.
 ---
 
 ## 🚀 How to Run (Optional)
