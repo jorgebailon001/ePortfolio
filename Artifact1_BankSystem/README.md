@@ -34,7 +34,7 @@ This enhanced console-based banking system was ported from a legacy C++ version.
 
 Make sure Python 3 is installed.
 
-```markdown
 '''bash
 cd Artifact1_BankSystem
 python main.py
+'''
