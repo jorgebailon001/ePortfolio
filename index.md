@@ -32,7 +32,7 @@ Welcome to my capstone ePortfolio. Below you'll find my enhanced artifacts demon
 - 📊 Interactive dashboard built in Power BI  
 - 🛫 Real-world airline and airport data pipeline  
 - 🧾 Comparative insight from insurance data to aviation market analytics  
-- 📷 [View Screenshots](./Artifact3_MongoBI/Screenshots)
+- 📷 [View Dashboard Screenshots](./Artifact3_MongoBI/Screenshots/README.md)
 
 ### 🔍 Explore Power BI Dashboards:
 - 📊 **Enhanced Dashboard:**  
