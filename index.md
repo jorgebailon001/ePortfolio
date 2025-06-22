@@ -34,6 +34,13 @@ Welcome to my capstone ePortfolio. Below you'll find my enhanced artifacts demon
 - 🧾 Comparative insight from insurance data to aviation market analytics  
 - 📷 [View Screenshots](./Artifact3_MongoBI/Screenshots)
 
+### 🔍 Explore Power BI Dashboards:
+- 📊 **Enhanced Dashboard:**  
+  [📂 airport_dashboard.pbix – View via OneDrive](https://ldrv.ms/u/c/c7d4b73524dc22bd/EX35aPyhtwtMsA1OSL2cggMBuLdhZcWcPvV19otxVbcQCw?e=45Evfs)
+
+- 📊 **Original Dashboard:**  
+  [📂 insurance_data.pbix – View via OneDrive](https://ldrv.ms/u/c/c7d4b73524dc22bd/EfyyX4019u90UoEMuBXLLiUBM_caU0pQJ-4Pf8WwkVNUg?e=trbZlE)
+
 ---
 
 Thank you for reviewing my capstone portfolio!
