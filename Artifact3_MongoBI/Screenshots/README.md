@@ -7,7 +7,7 @@ This folder contains key visualizations generated as part of **Artifact 3: Mongo
 ## ✈️ Airline and Airport Visualizations
 
 ### 🛫 Airline Data Overview
-[Airline_Data](./Airline_Data.png)
+![Airline_Data](./Airline_Data.png)
 
 ### 🏢 Airport Records Table
 ![Airport_Data](./Airport_Data.png)
