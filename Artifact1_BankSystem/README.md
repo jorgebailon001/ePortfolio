@@ -29,6 +29,19 @@ This enhanced console-based banking system was ported from a legacy C++ version.
 | `bank_system.puml` | UML class diagram (viewable via PlantUML) |
 
 ---
+```
+Artifact1_BankSystem/
+├── [main.py](./main.py)                       ← Console menu and program entry point
+├── [account.py](./account.py)                 ← Account class and core data structure
+├── [bank.py](./bank.py)                       ← Manages account operations via BankManager
+├── [transaction.py](./transaction.py)         ← Strategy Pattern for Deposit/Withdraw logic
+├── [logger_config.py](./logger_config.py)     ← Logging setup using Python's `logging` module
+├── [tests/](./tests/)                         ← Unit tests for all components
+├── [UML_BankSystem.png](./UML_BankSystem.png) ← UML diagram as a PNG image
+├── [bank_system.puml](./bank_system.puml)     ← UML diagram source in PlantUML format
+└── [bankManagement.cpp](./bankManagement.cpp) ← Original C++ version for comparison
+```
+---
 
 ## 🚀 How to Run
 
