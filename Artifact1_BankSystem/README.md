@@ -31,11 +31,21 @@ This enhanced console-based banking system was ported from a legacy C++ version.
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run
 
-Make sure Python 3 is installed.
+Make sure Python 3.9 or later is installed.
+
+1. Open a terminal or command prompt.
+2. Navigate to the project directory:
 
 ```bash
 cd Artifact1_BankSystem
+```
+3. Run the application:
+```bash
 python main.py
+```
+4. Note: You may run unit test using:
+```bash
+python -m unittest discover tests
 ```
